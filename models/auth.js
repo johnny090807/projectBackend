@@ -10,16 +10,6 @@ var schema = new Schema({
     bedrijf: {type: Schema.Types.ObjectId, ref:"Bedrijf", default: undefined}
 });
 
-// Auth.find({userName: 'admin'},function(err, auth){
-//     if(!auth){
-//         var auth = new Auth({
-//             userName: 'admin',
-//             password: 'geheim'
-//         })
-//     }
-// });
-
-
 schema.plugin(mongooseUniqueValidator);
 
 module.exports = mongoose.model('Auth', schema);

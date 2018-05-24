@@ -4,9 +4,7 @@ var jwt = require('jsonwebtoken');
 // var mongoose = require('mongoose');
 // var bcrypt = require('bcryptjs');
 var Auth = require('../models/auth');
-var Identifier = require('../models/identifier');
 var Bedrijf = require('../models/bedrijf');
-var identifiersIds = [];
 
 
 router.use('/', function (req, res, next) {
