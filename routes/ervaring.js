@@ -86,4 +86,70 @@ router.post('/:id', function (req, res, next) {
     });
 });
 
+// router.get('/', function(req,res,next){
+//     Bedrijf.find()
+//         .populate('description')
+//         .exec(function(err,result){
+//             if(err){
+//                 return res.status(500).json({
+//                     title:'er is iets mis gegaan',
+//                     error: err
+//                 })
+//             }
+//             if(!result){
+//                 return res.status(500).json({
+//                     title:'geen bedrijf gevonden',
+//                     error:{message: 'bedrijf niet kunnen vinden'}
+//                 })
+//             }
+//             res.status(200).json({
+//                 title:'success',
+//                 obj: result
+//             })
+//         })
+// });
+router.get('/', function(req,res,next){
+    Bedrijf.find()
+        .populate('ervarings', 'description')
+        .exec(function(err,result){
+            if(err){
+                return res.status(500).json({
+                    title:'er is iets mis gegaan',
+                    error: err
+                })
+            }
+            if(!result){
+                return res.status(500).json({
+                    title:'geen bedrijf gevonden',
+                    error:{message: 'bedrijf niet kunnen vinden'}
+                })
+            }
+            res.status(200).json({
+                title:'success',
+                obj: result
+            })
+        })
+});
+router.get('/:id', function(req,res,next){
+    var ervaringId = req.params.id;
+    Ervaring.findById({_id: ervaringId})
+        .exec(function(err,result){
+            if(err){
+                return res.status(500).json({
+                    title:'er is iets mis gegaan',
+                    error: err
+                })
+            }
+            if(!result){
+                return res.status(500).json({
+                    title:'geen ervaring gevonden',
+                    error:{message: 'ervaring niet kunnen vinden'}
+                })
+            }
+            res.status(200).json({
+                title:'success',
+                obj: result
+            })
+        })
+});
 module.exports = router;

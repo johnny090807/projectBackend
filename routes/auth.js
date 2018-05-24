@@ -40,10 +40,7 @@ router.post('/signin', function (req, res, next){
                 userId: user._id,
                 admin: user.admin
             });
-
-
-            })
-
+        });
     });
 });
 //
