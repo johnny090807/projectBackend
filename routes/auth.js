@@ -117,7 +117,7 @@ router.post('/', function(req, res, next){
     var user = new Auth({
         userName: req.body.userName,
         password: bcrypt.hashSync(req.body.password, 10),
-        admin:false,
+        admin:req.body.admin,
         ervaringen:undefined,
         bedrijf:undefined
     });

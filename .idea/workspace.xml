@@ -2,9 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f323c92d-581d-4a7e-8f90-a8ba1aae5358" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/auth.js" afterPath="$PROJECT_DIR$/routes/auth.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/ervaring.js" afterPath="$PROJECT_DIR$/routes/ervaring.js" />
+      <change beforePath="$PROJECT_DIR$/assets/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/app.routing.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/auth/auth.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/auth/auth.routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/auth/auth.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/auth/authentication.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/auth/logout.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/auth/signin.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/auth/signin.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/auth/signup.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/auth/signup.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/errors/error.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/errors/error.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/errors/error.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/errors/error.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/identifier/Identifier-all.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/identifier/identifier.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/identifier/identifier.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/identifier/identifier.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/identifier/identifier.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/identifier/identifiers.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/identifier/user-identifier-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/identifier/user-identifier.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/identifier/user-identifier.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/main.aot.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/shared/filter.pipe.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/shared/percentage.pipe.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/subscriptionplan/subscriptionplan-input.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/subscriptionplan/subscriptionplan-input.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/subscriptionplan/subscriptionplan-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/subscriptionplan/subscriptionplan.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/subscriptionplan/subscriptionplan.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/subscriptionplan/subscriptionplan.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/subscriptionplan/subscriptionplan.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/subscriptionplan/subscriptionplans.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/user/user-input.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/user/user-input.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/user/user-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/user/user.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/user/user.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/user/user.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/user/user.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app/user/users.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/identifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/auth.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,23 +61,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ervaring.js" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ervaring.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/ervaring.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="145" column="45" lean-forward="false" selection-start-line="145" selection-start-column="45" selection-end-line="145" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="identifier.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models/identifier.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="2026">
+              <caret line="145" column="45" selection-start-line="145" selection-start-column="45" selection-end-line="145" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -38,29 +74,32 @@
       <file leaf-file-name="ervaring.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/ervaring.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="bedrijf.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/bedrijf.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2769">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/models/bedrijf.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="auth.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/auth.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="bedrijf.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/bedrijf.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="auth.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/auth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="60" column="34" lean-forward="true" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
-              <folding />
+            <state relative-caret-position="343">
+              <caret line="120" column="29" lean-forward="true" selection-start-line="120" selection-start-column="29" selection-end-line="120" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -73,9 +112,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/routes/auth.js" />
         <option value="$PROJECT_DIR$/models/ervaring.js" />
         <option value="$PROJECT_DIR$/routes/ervaring.js" />
+        <option value="$PROJECT_DIR$/routes/auth.js" />
       </list>
     </option>
   </component>
@@ -90,9 +129,17 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="-7" />
+    <option name="y" value="23" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -100,38 +147,27 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="projectBackend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projectBackend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Project-Backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project-Backend" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="projectBackend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projectBackend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="models" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Project-Backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project-Backend" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="projectBackend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projectBackend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="routes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Project-Backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project-Backend" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -140,10 +176,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path" value="D:/nodejs/node" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -157,8 +193,8 @@
       </list>
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -168,34 +204,37 @@
       <option name="presentableId" value="Default" />
       <updated>1527186531477</updated>
       <workItem from="1527186532921" duration="5926000" />
+      <workItem from="1527230146104" duration="3463000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5926000" />
+    <option name="totallyTimeSpent" value="9389000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="0" y="0" width="2048" height="1152" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945295" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2896936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11814556" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,48 +243,64 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/routes/bedrijf.js">
+    <entry file="file://$PROJECT_DIR$/routes/ervaring.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2769">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/auth.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="60" column="34" lean-forward="true" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
-          <folding />
+        <state relative-caret-position="2175">
+          <caret line="145" column="45" selection-start-line="145" selection-start-column="45" selection-end-line="145" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models/identifier.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/models/ervaring.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/bedrijf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="34" lean-forward="true" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/bedrijf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/identifier.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/bedrijf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/auth.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/ervaring.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/ervaring.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="145" column="45" lean-forward="false" selection-start-line="145" selection-start-column="45" selection-end-line="145" selection-end-column="45" />
-          <folding />
+        <state relative-caret-position="2026">
+          <caret line="145" column="45" selection-start-line="145" selection-start-column="45" selection-end-line="145" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="120" column="29" lean-forward="true" selection-start-line="120" selection-start-column="29" selection-end-line="120" selection-end-column="29" />
         </state>
       </provider>
     </entry>
